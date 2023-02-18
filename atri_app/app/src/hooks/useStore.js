@@ -397,7 +397,7 @@ const desktopModeProps = {
     "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/sandwich.jpeg"
+        "src": "/atri-restaurantex/app-assets/sandwich.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -494,7 +494,7 @@ const desktopModeProps = {
     "Logo": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/restaurantex.jpeg"
+        "src": "/atri-restaurantex/app-assets/restaurantex.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -579,7 +579,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/grubhub.svg"
+        "src": "/atri-restaurantex/app-assets/grubhub.svg"
       },
       "callbacks": {
         "onClick": [
@@ -592,7 +592,7 @@ const desktopModeProps = {
     "Image8": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/rappi.svg"
+        "src": "/atri-restaurantex/app-assets/rappi.svg"
       },
       "callbacks": {
         "onClick": [
@@ -605,7 +605,7 @@ const desktopModeProps = {
     "Image9": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/doordash.svg"
+        "src": "/atri-restaurantex/app-assets/doordash.svg"
       },
       "callbacks": {
         "onClick": [
@@ -618,7 +618,7 @@ const desktopModeProps = {
     "Image10": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/postmates.svg"
+        "src": "/atri-restaurantex/app-assets/postmates.svg"
       },
       "callbacks": {
         "onClick": [
@@ -643,7 +643,7 @@ const desktopModeProps = {
     "Image14": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/desserts.svg"
+        "src": "/atri-restaurantex/app-assets/desserts.svg"
       },
       "callbacks": {
         "onClick": [
@@ -692,7 +692,7 @@ const desktopModeProps = {
     "Image12": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/maindishes.svg"
+        "src": "/atri-restaurantex/app-assets/maindishes.svg"
       },
       "callbacks": {
         "onClick": [
@@ -741,7 +741,7 @@ const desktopModeProps = {
     "Image11": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/breakfast.svg"
+        "src": "/atri-restaurantex/app-assets/breakfast.svg"
       },
       "callbacks": {
         "onClick": [
@@ -790,7 +790,7 @@ const desktopModeProps = {
     "Image13": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/drinks.svg"
+        "src": "/atri-restaurantex/app-assets/drinks.svg"
       },
       "callbacks": {
         "onClick": [
@@ -863,7 +863,7 @@ const desktopModeProps = {
     "Image15": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/burgger.jpeg"
+        "src": "/atri-restaurantex/app-assets/burgger.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -948,7 +948,7 @@ const desktopModeProps = {
     "Image16": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/article1.jpeg"
+        "src": "/atri-restaurantex/app-assets/article1.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -997,7 +997,7 @@ const desktopModeProps = {
     "Image20": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/article5.jpeg"
+        "src": "/atri-restaurantex/app-assets/article5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1034,7 +1034,7 @@ const desktopModeProps = {
     "Image19": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/article4.jpeg"
+        "src": "/atri-restaurantex/app-assets/article4.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1071,7 +1071,7 @@ const desktopModeProps = {
     "Image18": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/article3.jpeg"
+        "src": "/atri-restaurantex/app-assets/article3.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1108,7 +1108,7 @@ const desktopModeProps = {
     "Image17": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/article2.jpeg"
+        "src": "/atri-restaurantex/app-assets/article2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1169,7 +1169,7 @@ const desktopModeProps = {
     "Image21": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta1.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta1.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1182,7 +1182,7 @@ const desktopModeProps = {
     "Image22": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta2.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1195,7 +1195,7 @@ const desktopModeProps = {
     "Image29": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta3.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta3.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1208,7 +1208,7 @@ const desktopModeProps = {
     "Image30": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta4.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta4.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1221,7 +1221,7 @@ const desktopModeProps = {
     "Image28": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta6.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta6.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1234,7 +1234,7 @@ const desktopModeProps = {
     "Image31": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta5.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1247,7 +1247,7 @@ const desktopModeProps = {
     "Image40": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/616da2c309aa0721dacedf0a_logo-restaurante-x-template.svg"
+        "src": "/atri-restaurantex/app-assets/616da2c309aa0721dacedf0a_logo-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1272,7 +1272,7 @@ const desktopModeProps = {
     "Image41": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1285,7 +1285,7 @@ const desktopModeProps = {
     "Image42": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1298,7 +1298,7 @@ const desktopModeProps = {
     "Image43": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1311,7 +1311,7 @@ const desktopModeProps = {
     "Image44": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1324,7 +1324,7 @@ const desktopModeProps = {
     "Image45": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1529,7 +1529,7 @@ const desktopModeProps = {
     "Image36": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta5.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1542,7 +1542,7 @@ const desktopModeProps = {
     "Image37": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta4.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta4.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1555,7 +1555,7 @@ const desktopModeProps = {
     "Image38": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta3.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta3.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1568,7 +1568,7 @@ const desktopModeProps = {
     "Image39": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta6.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta6.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1593,7 +1593,7 @@ const desktopModeProps = {
     "Image47": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aboutus.jpeg"
+        "src": "/atri-restaurantex/app-assets/aboutus.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1618,7 +1618,7 @@ const desktopModeProps = {
     "Image48": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/loc.svg"
+        "src": "/atri-restaurantex/app-assets/loc.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1655,7 +1655,7 @@ const desktopModeProps = {
     "Image49": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/call.svg"
+        "src": "/atri-restaurantex/app-assets/call.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1668,7 +1668,7 @@ const desktopModeProps = {
     "Image50": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/msg.svg"
+        "src": "/atri-restaurantex/app-assets/msg.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1777,7 +1777,7 @@ const desktopModeProps = {
     "Image51": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/sandwich.jpeg"
+        "src": "/atri-restaurantex/app-assets/sandwich.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1862,7 +1862,7 @@ const desktopModeProps = {
     "Image52": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu2.jpeg"
+        "src": "/atri-restaurantex/app-assets/menu2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1911,7 +1911,7 @@ const desktopModeProps = {
     "Image53": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/insta2.jpeg"
+        "src": "/atri-restaurantex/app-assets/insta2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1960,7 +1960,7 @@ const desktopModeProps = {
     "Image54": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu4.jpeg"
+        "src": "/atri-restaurantex/app-assets/menu4.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1973,7 +1973,7 @@ const desktopModeProps = {
     "Image55": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu5.jpeg"
+        "src": "/atri-restaurantex/app-assets/menu5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2022,7 +2022,7 @@ const desktopModeProps = {
     "Image56": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu6.jpeg"
+        "src": "/atri-restaurantex/app-assets/menu6.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2071,7 +2071,7 @@ const desktopModeProps = {
     "Image57": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu7.jpeg"
+        "src": "/atri-restaurantex/app-assets/menu7.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2120,7 +2120,7 @@ const desktopModeProps = {
     "Image58": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu8.jpeg"
+        "src": "/atri-restaurantex/app-assets/menu8.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2217,7 +2217,7 @@ const desktopModeProps = {
     "Image59": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/arrlef.svg"
+        "src": "/atri-restaurantex/app-assets/arrlef.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2230,7 +2230,7 @@ const desktopModeProps = {
     "Image60": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/arrrig.svg"
+        "src": "/atri-restaurantex/app-assets/arrrig.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2267,7 +2267,7 @@ const desktopModeProps = {
     "Image61": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2280,7 +2280,7 @@ const desktopModeProps = {
     "Image62": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2293,7 +2293,7 @@ const desktopModeProps = {
     "Image63": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2306,7 +2306,7 @@ const desktopModeProps = {
     "Image64": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2319,7 +2319,7 @@ const desktopModeProps = {
     "Image65": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/stars.svg"
+        "src": "/atri-restaurantex/app-assets/stars.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2332,7 +2332,7 @@ const desktopModeProps = {
     "Image66": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/avat.jpeg"
+        "src": "/atri-restaurantex/app-assets/avat.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2562,7 +2562,7 @@ const desktopModeProps = {
     "Image70": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/loc.svg"
+        "src": "/atri-restaurantex/app-assets/loc.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2599,7 +2599,7 @@ const desktopModeProps = {
     "Image71": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/call.svg"
+        "src": "/atri-restaurantex/app-assets/call.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2612,7 +2612,7 @@ const desktopModeProps = {
     "Image72": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/msg.svg"
+        "src": "/atri-restaurantex/app-assets/msg.svg"
       },
       "callbacks": {
         "onClick": [
