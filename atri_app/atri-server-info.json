@@ -7,10 +7,10 @@
       "name": "Home"
     }
   },
-  "organizationName": "bhatshakran",
-  "projectName": "atri-restaurantex",
-  "deploymentBranch": "master",
+
   "publicUrlAssetMap": {
     "/app-assets": "../assets"
-  }
+  },
+  "organizationName": "bhatshakran",
+  "projectName": "atri-restaurantex"
 }
