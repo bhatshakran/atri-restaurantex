@@ -7,6 +7,9 @@
       "name": "Home"
     }
   },
+  "organizationName": "shaqran",
+  "projectName": "atri-restaurantex",
+  "deploymentBranch": "master",
   "publicUrlAssetMap": {
     "/app-assets": "../assets"
   }
